@@ -1,0 +1,7 @@
+name: AutoWhitelistAdder
+version: '${project.version}'
+main: me.hotal.paper.autowhitelistadder.AutoWhitelist
+api-version: 1.19
+load: STARTUP
+authors: [ Hotal_Mami ]
+description: AutoWhitelistAdder
